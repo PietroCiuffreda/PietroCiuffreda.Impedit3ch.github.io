@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PietroCiuffreda/PietroCiuffreda.Impedit3ch.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://d3wo5wojvuv7l.cloudfront.net/t_website_show_cover/images.spreaker.com/original/a804b75c5a87fcdb489c3adf3b5a9a2a.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Benvenuto/a, questo è Impedit3ch, il podcast che tratta della tecnologia che ci circonda ogni giorno, cercando di fornire uno sguardo più consapevole, più preciso e meno impedito sulle tecnologie vecchie e nuove che abbiamo sotto gli occhi. In questo canale ho deciso che condividerò articoli, blog, foto e video che hanno in qualche modo attirato la mia attenzione. Da parte mia, buon tempo!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Ascolta qui l'ultima puntata:
 
-- Bulleted
-- List
+<iframe src="https://widget.spreaker.com/player?show_id=4610200&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
 
-1. Numbered
-2. List
+Email: [impedit3ch@protonmail.com](mailto:impedit3ch@protonmail.com)
 
-**Bold** and _Italic_ and `Code` text
+Canale Telegram dove pubblico cose carine: [t.me/impedit3ch](https://t.me/impedit3ch)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PietroCiuffreda/PietroCiuffreda.Impedit3ch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
