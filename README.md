@@ -9,7 +9,7 @@ Benvenuto/a, questo è Impedit3ch, il podcast che tratta della tecnologia che ci
 
 Email: [impedit3ch@protonmail.com](mailto:impedit3ch@protonmail.com)
 
-Canale Telegram dove pubblico cose carine: [t.me/impedit3ch](https://t.me/impedit3ch)
+Canale Telegram dove pubblico cose carine: [https://impedit3ch.carrd.co](https://impedit3ch.carrd.co)
 
 
 
